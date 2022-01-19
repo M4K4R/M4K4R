@@ -7,6 +7,10 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Da+2&color=%2364FFDA&size=22&center=true&vCenter=true&width=440&height=45&lines=Full-Stack++web+and+app+Developer;Experienced+UI%2FUX+Designer"></a>
 </p>
 
+## 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem-m4k4r.vercel.app/api/spotify?background_color=060A0CD0)](https://open.spotify.com/user/iz13txxgxei4rqxusaa7brdq0)
+
 
 ## 🙋‍♂️ About Me
 
@@ -108,8 +112,3 @@
 
 <br/>
 <br/>
-
-
-## 🎧 Spotify Playing 
-
-[![Spotify](https://novatorem-m4k4r.vercel.app/api/spotify?background_color=060A0CD0)](https://open.spotify.com/user/iz13txxgxei4rqxusaa7brdq0)
