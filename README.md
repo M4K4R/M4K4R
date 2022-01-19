@@ -7,9 +7,6 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Da+2&color=%2364FFDA&size=22&center=true&vCenter=true&width=440&height=45&lines=Full-Stack++web+and+app+Developer;Experienced+UI%2FUX+Designer"></a>
 </p>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<br>
 
 ## 🙋‍♂️ About Me
 
@@ -92,14 +89,6 @@
 </p>
 
 
-## 🎧 Spotify Playing 
-
-<p align="center">
-
-[![Spotify](https://novatorem-m4k4r.vercel.app/api/spotify)](https://open.spotify.com/user/iz13txxgxei4rqxusaa7brdq0)
-
-</p>
-
 ## 📊 My Github Stats
 
 <br/>
@@ -120,3 +109,7 @@
 <br/>
 <br/>
 
+
+## 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem-m4k4r.vercel.app/api/spotify?background_color=060A0CD0)](https://open.spotify.com/user/iz13txxgxei4rqxusaa7brdq0)
