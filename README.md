@@ -91,11 +91,14 @@
     </a>
 </p>
 
+
 ## 🎧 Spotify Playing 
+
+<p align="center">
 
 [![Spotify](https://novatorem-m4k4r.vercel.app/api/spotify)](https://open.spotify.com/user/iz13txxgxei4rqxusaa7brdq0)
 
-
+</p>
 
 ## 📊 My Github Stats
 
