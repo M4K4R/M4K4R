@@ -116,7 +116,7 @@
 
 ## 📘 Back End Development and APIs
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/M4K4R/boilerplate-npm"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-npm&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-npm"></a>
   <a href="https://github.com/M4K4R/boilerplate-express"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-express&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-express"></a>
   <a href="https://github.com/M4K4R/boilerplate-mongomongoose"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-mongomongoose&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-mongomongoose"></a>
