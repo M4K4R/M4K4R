@@ -127,3 +127,10 @@
   <a href="https://github.com/M4K4R/boilerplate-project-exercisetracker"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-project-exercisetracker&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-project-exercisetracker"></a>
 </p>
 
+
+## 📕 Information Security
+
+<p align="center">
+  <a href="https://github.com/M4K4R/boilerplate-infosec"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-infosec&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-infosec"></a>
+  <a href="https://github.com/M4K4R/boilerplate-bcrypt"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-bcrypt&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-bcrypt"></a>
+</p>
