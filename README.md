@@ -115,7 +115,7 @@
 
 <details>
 <summary>📘 Back End Development and APIs</summary>
-
+<br/>
 <p align="center">
   <a href="https://github.com/M4K4R/boilerplate-npm"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-npm&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-npm"></a>
   <a href="https://github.com/M4K4R/boilerplate-express"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-express&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-express"></a>
@@ -127,9 +127,9 @@
   <a href="https://github.com/M4K4R/boilerplate-project-exercisetracker"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-project-exercisetracker&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-project-exercisetracker"></a>
 </p>
 </details>
-
-## 📕 Information Security
-
+<details>
+<summary> 📕 Information Security </summary>
+<br/>
 <p align="center">
   <a href="https://github.com/M4K4R/boilerplate-infosec"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-infosec&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-infosec"></a>
   <a href="https://github.com/M4K4R/boilerplate-project-secure-real-time-multiplayer-game"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-project-secure-real-time-multiplayer-game&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-project-secure-real-time-multiplayer-game"></a>
@@ -137,3 +137,4 @@
   <a href="https://github.com/M4K4R/boilerplate-project-messageboard"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-project-messageboard&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-project-messageboard"></a>
   <a href="https://github.com/M4K4R/boilerplate-bcrypt"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=M4K4R&repo=boilerplate-bcrypt&theme=react&bg_color=060A0CD0&title_color=58a6ff&icon_color=c9d1d9&hide_border=true&show_icons=false" alt="boilerplate-bcrypt"></a>
 </p>
+</details>
